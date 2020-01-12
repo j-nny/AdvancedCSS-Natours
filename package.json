@@ -1,0 +1,22 @@
+{
+  "name": "natours-replica",
+  "version": "1.0.0",
+  "description": "Landing Page for Natours Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-nny/AdvancedCSS-Natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-nny/AdvancedCSS-Natours/issues"
+  },
+  "homepage": "https://github.com/j-nny/AdvancedCSS-Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
